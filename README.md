@@ -1,6 +1,6 @@
 ## **Hi I'm Mahmmoud** 👋
 
-> #### I'm Front-End Developer Founder Of [Thailand Codes](https://site.thailandcodes.cf) And [Sharebot]([https://](https://discord.gg/T3TJgsnVPn)) Also I'm Have Profile In [DevList](https://devlist.me/OnlyMahmoud)
+> #### I'm Front-End Developer Founder Of [Thailand Codes](https://site.thailandcodes.cf) And [Sharebot](https://discord.gg/T3TJgsnVPn) Also I'm Have Profile In [DevList](https://devlist.me/OnlyMahmoud)
 <br>
 <h3>👨‍🔧 - Github Statics:</h3>
 <p align="left">
