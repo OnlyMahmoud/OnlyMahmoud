@@ -1,37 +1,31 @@
-## **Hi I'm Mahmmoud** 👋
 
-> #### I'm Front-End Developer Founder Of [Thailand Codes](https://site.thailandcodes.cf) And [Sharebot](https://discord.gg/T3TJgsnVPn) Also I'm Have Profile In [DevList](https://devlist.me/OnlyMahmoud)
-<br>
-<h3>👨‍🔧 - Github Statics:</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahmmoud From Egypt</h1>
+
+&nbsp;
+## 🙋‍♂️ About Me:
+- I’m Front-End Developer Founder Of [Thailand Codes](https://site.thailandcodes.cf) And [Sharebot](https://discord.gg/T3TJgsnVPn) 
+- I’m From Egypt (Alexandria)
+
+
+&nbsp;
+
+## 🔥 - Github Statics:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=OnlyMahmoud&show_icons=true&theme=radical"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OnlyMahmoud&theme=radical&)](https://git.io/streak-stats)"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmoud&show_icons=true&locale=en&layout=compact&theme=radical" alt="onlymahmoud" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmoud&theme=radical&show_icons=true&locale=en" alt="onlymahmoud" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlymahmoud&theme=radical" alt="onlymahmoud" /></p>
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=onlymahmoud&theme=redical&)](https://github.com/onlymahmoud/onlymahmoud"/></p>
+&nbsp;
+
+## 💻 - My Skills:
+</div>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+</div>
+&nbsp;
+
+## Connect with me:
+<p align="left">
+<a href = "https://discord.gg/7XbDEtAJx8"><img   width="50px"src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png"/></a>
 </p>
-<h3>👨‍🔧 - MostUsed:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyMahmoud&theme=radical&github-readme-stats"/>
-<br>
-<br>
-<h2>💻 - My Skills:</h2>
-<br>
-<p align="left">
-</div>
-    <img alt="JS" src="https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white"/>
-    &emsp;
-    <img alt="Node" src="https://img.shields.io/badge/node-00ff52?style=for-the-badge&logo=node&logoColor=00ff52"/>
-    &emsp;
-    <img alt="html" src="https://img.shields.io/badge/Html5-E54C21?style=for-the-badge&logo=html5&logoColor=white"/>
-    &emsp;
-    <img alt="ejs" src="https://img.shields.io/badge/ejs-0000?style=for-the-badge&logo&logoColor=dark"/>
-    &emsp;
-    <img alt="discord" src="https://img.shields.io/badge/discordjs-0066e4?style=for-the-badge&logo=discord&logoColor=dark"/>
-    &emsp;
-    <img alt="css" src="https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white"/>
-    &emsp;
-    <img alt="mongoDB" src ="https://img.shields.io/badge/Mongodb-07AC4F?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    &emsp;
-    <img alt="visual" src="https://img.shields.io/badge/Visual_Studio_Code-3d3d3d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/>
-    &emsp;
-    <img alt="Git" src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white"/>
-    
-</div>
