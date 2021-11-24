@@ -11,7 +11,7 @@
 
 ## 🔥 - Github Statics:
 <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmoud&show_icons=true&locale=en&layout=compact&theme=radical" alt="onlymahmoud" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmoud&show_icons=true&locale=en&layout=compact&theme=radical"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmoud&theme=radical&show_icons=true&locale=en" alt="onlymahmoud" /></p>
 
