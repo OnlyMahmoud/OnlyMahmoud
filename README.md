@@ -13,12 +13,12 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmoud&show_icons=true&locale=en&layout=compact&theme=radical"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmoud&theme=radical&show_icons=true&locale=en" alt="onlymahmoud" /></p>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=onlymahmoud&theme=radical&show_icons=true&locale=en"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlymahmoud&theme=radical" alt="onlymahmoud" /></p>
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=onlymahmoud&theme=redical&)](https://github.com/onlymahmoud/onlymahmoud"/></p>
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=onlymahmoud&theme=radical"/></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=onlymahmoud&theme=redical&)](https://github.com/onlymahmoud/onlymahmoud"/>
 &nbsp;
-<p align="left"> <a href="https://github.com/onlymahmoud/onlymahmoud"><img src="https://github-profile-trophy.vercel.app/?username=onlymahmoud&theme=radical" alt="onlymahmoud" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=onlymahmoud&theme=radical"/>
 &nbsp;
 
 ## 💻 - My Skills:
