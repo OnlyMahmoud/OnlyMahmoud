@@ -31,3 +31,8 @@
 <p align="left">
 <a href = "https://discord.gg/7XbDEtAJx8"><img   width="50px"src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png"/></a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmoud&show_icons=true&locale=en&layout=compact" alt="onlymahmoud" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmoud&show_icons=true&locale=en" alt="onlymahmoud" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlymahmoud&" alt="onlymahmoud" /></p>
