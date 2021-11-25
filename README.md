@@ -14,6 +14,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlymahmoud&theme=radical&show_icons=true&locale=en&layout=compact" alt="onlymahmoud" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical"/></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmoud&show_icons=true&theme=radical"/></p>
 
 
