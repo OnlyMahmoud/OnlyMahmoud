@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmoud&theme=radical&show_icons=true&locale=en" alt="onlymahmoud" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlymahmoud&theme=radical" alt="onlymahmoud" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/></p>
 
 ## 💻 - My Skills:
 </div>
