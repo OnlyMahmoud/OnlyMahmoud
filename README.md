@@ -18,6 +18,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onlymahmoud&show_icons=true&theme=radical"/></p>
 
+<a href="https://github.com/rahuldkjain" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true" width="320" alt="Rahul's github stats"/>
 
 ## 💻 - My Skills:
 </div>
