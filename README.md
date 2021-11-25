@@ -27,6 +27,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://discord.gg/7XbDEtAJx8"><img   width="50px"src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png"/></a>
-<a href="https://twitter.com/thailandcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thailandcodes" height="30" width="40" /></a>
+<a href = "https://discord.gg/7XbDEtAJx8"><img   width="50px"src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png"/a>
+  
+<a align="left"> <a href="https://twitter.com/thailandcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thailandcodes" height="30" width="40"/a>
 </p>
